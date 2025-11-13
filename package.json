@@ -1,0 +1,19 @@
+{
+  "name": "laba-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elKINTARO/backend-course-2025-6.git"
+  },
+  "author": "Fedotov Kiril FEI-23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elKINTARO/backend-course-2025-6/issues"
+  },
+  "homepage": "https://github.com/elKINTARO/backend-course-2025-6#readme"
+}
